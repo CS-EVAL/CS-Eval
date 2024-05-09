@@ -3,10 +3,6 @@
 <p align="center">
    🌐 <a href="https://cs-eval.com/" target="_blank">Website</a> ｜ 🤗 <a href="https://huggingface.co/datasets/cseval/cs-eval" target="_blank">Hugging Face</a> • 🤖️ <a href="https://modelscope.cn/datasets/cseval/cs-eval/summary" target="_blank">ModelScope</a><br> <a href="https://github.com/CS-EVAL/CS-Eval/blob/main/README.md">English | <a href="https://github.com/CS-EVAL/CS-Eval/blob/main/README_zh.md">中文</a>
 </p>
-
-
-
-
 CS-Eval is a comprehensive evaluation toolkit for fundamental cybersecurity models, encompassing 11 major cybersecurity categories, 42 subdomains, featuring 4,369 assessment items across multiple-choice, true/false, and knowledge extraction questions. It delivers a balanced mix of knowledge-oriented and practice-focused evaluation tasks. The platform empowers users to conduct self-assessments and offers leaderboards across various subdomains, fostering competitive benchmarking and performance insights.
 
 <img src="resources/overview.png" style="zoom: 80%;" >
@@ -158,7 +154,7 @@ If you utilize our dataset in your research or technical reports, please ensure 
 ```bibtex
 @misc{2024cseval,
     title={CS-Eval: A Comprehensive Evaluation Toolkit for Fundamental CyberSecurity Models},
-    author={Zeng, Jiutian and Yu, Zhengmin and Chen, Siyi and Xu, Wenhan and Xu, Dandan and Liu, Xiangyu and Zhang, Yuan},
+    author={*Zeng, Jiutian and *Yu, Zhengmin and Chen, Siyi and Xu, Wenhan and Xu, Dandan and Liu, Xiangyu and Lu, Yining and Zhang, Yuan},
     publisher = {GitHub},
     howpublished= "https://github.com/CS-EVAL/CS-Eval",
     year={2024}

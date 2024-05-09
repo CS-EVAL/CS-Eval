@@ -3,8 +3,6 @@
 <p align="center">
    🌐 <a href="https://cs-eval.com/" target="_blank">评测网站</a> ｜ 🤗 <a href="https://huggingface.co/datasets/cseval/cs-eval" target="_blank">Hugging Face</a> • 🤖️ <a href="https://modelscope.cn/datasets/cseval/cs-eval/summary" target="_blank">ModelScope</a><br> <a href="https://github.com/CS-EVAL/CS-Eval/blob/main/README.md">English | <a href="https://github.com/CS-EVAL/CS-Eval/blob/main/README_zh.md">中文</a>
 </p>
-
-
 CS-Eval 是网络安全基础模型综合评测套件，覆盖了11个网络安全大类领域、42个子类领域的4369个多项选择题、判断题、知识抽取题，提供偏知识型和偏实战型的综合评估任务。平台支持用户自主评测，并提供不同子领域的排行。
 
 <img src="resources/overview.png" style="zoom: 80%;" >
@@ -153,7 +151,7 @@ CS-Eval数据集遵循 [Creative Commons Attribution-NonCommercial-ShareAlike 4.
 ```bibtex
 @misc{2024cseval,
     title={CS-Eval: A Comprehensive Evaluation Toolkit for Fundamental CyberSecurity Models},
-    author={Zeng, Jiutian and Yu, Zhengmin and Chen, Siyi and Xu, Wenhan and Xu, Dandan and Liu, Xiangyu and Zhang, Yuan},
+    author={*Zeng, Jiutian and *Yu, Zhengmin and Chen, Siyi and Xu, Wenhan and Xu, Dandan and Liu, Xiangyu and Lu, Yining and Zhang, Yuan},
     publisher = {GitHub},
     howpublished= "https://github.com/CS-EVAL/CS-Eval",
     year={2024}
