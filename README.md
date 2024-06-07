@@ -11,7 +11,7 @@ CS-Eval is a comprehensive evaluation toolkit for fundamental cybersecurity mode
 
 ## News
 
-- **[2024.05.30]** CS-Eval has been released, and users are now able to submit evaluations on the website independently. 🎉🎉🎉
+- **[2024.05.xx]** CS-Eval has been released, and users are now able to submit evaluations on the website independently. 🎉🎉🎉
 - **[2024.03.29]** The CS-Eval dataset has been jointly constructed and completed. ✅✅✅
 
 
@@ -132,6 +132,16 @@ Please note:
 - In the case of multiple-answer questions, regular expressions can similarly be used to extract multiple correct answer options from the model's output.
 - For true/false questions, if the question instructions require a specific answer format, the judgment result is usually taken from the beginning or end of the model's output.
 - For knowledge extraction tasks, where the question specifies a particular response format, use the raw text output from the model inference directly.
+
+
+
+When you regularize multiple-choice questions, you can quickly locate multiple-choice questions by filtering the following keywords in the dataset prompt.
+
+```
+"单选题："
+"多选题："
+"Single-choice question:"
+```
 
 
 
