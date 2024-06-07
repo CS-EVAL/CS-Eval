@@ -11,7 +11,7 @@ CS-Eval is a comprehensive evaluation toolkit for fundamental cybersecurity mode
 
 ## News
 
-- **[2024.05.xx]** CS-Eval has been released, and users are now able to submit evaluations on the website independently. 🎉🎉🎉
+- **[2024.05.31]** CS-Eval has been released, and users are now able to submit evaluations on the website independently. 🎉🎉🎉
 - **[2024.03.29]** The CS-Eval dataset has been jointly constructed and completed. ✅✅✅
 
 
