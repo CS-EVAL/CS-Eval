@@ -116,6 +116,10 @@ You need to convert the organized model inference results into a JSON file encod
       "answer": "对"
     },
     {
+      "question_id": "235",
+      "answer": "ABD"
+    },
+    {
       "question_id": "1234",
       "answer": "是否涉及漏洞：是\n漏洞号：CVE-2024-22891\n影响的产品及版本：Nteract v.0.28.0"
     }
