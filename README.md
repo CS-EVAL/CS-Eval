@@ -116,10 +116,6 @@ You need to convert the organized model inference results into a JSON file encod
       "answer": "对"
     },
     {
-      "question_id": "235",
-      "answer": "ABD"
-    },
-    {
       "question_id": "1234",
       "answer": "是否涉及漏洞：是\n漏洞号：CVE-2024-22891\n影响的产品及版本：Nteract v.0.28.0"
     }
@@ -166,12 +162,11 @@ The CS-Eval dataset adheres to the [Creative Commons Attribution-NonCommercial-S
 If you utilize our dataset in your research or technical reports, please ensure proper citation.
 
 ```bibtex
-@misc{2024cseval,
-    title={CS-Eval: A Comprehensive Evaluation Toolkit for Fundamental CyberSecurity Models},
-    author={*Zeng, Jiutian and *Yu, Zhengmin and Chen, Siyi and Xu, Wenhan and Xu, Dandan and Liu, Xiangyu and Lu, Yining and Zhang, Yuan},
-    publisher = {GitHub},
-    howpublished= "https://github.com/CS-EVAL/CS-Eval",
-    year={2024}
+@inproceedings{Yu2024CSEvalAC,
+  title={CS-Eval: A Comprehensive Large Language Model Benchmark for CyberSecurity},
+  author={Zhengmin Yu and Jiutian Zeng and Siyi Chen and Wenhan Xu and Dandan Xu and Xiangyu Liu and Zonghao Ying and Nan Wang and Yuan Zhang and Min Yang},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:274234403}
 }
 ```
 
